@@ -1,0 +1,36 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+.env/
+
+# Environment files
+*.env
+
+# IDE and Editor files
+.vscode/
+.idea/
+
+# Logs
+*.log
+logs/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Python egg files
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Test coverage files
+.coverage
+.cache/
+
+# Others
+*.bak
+*.swp
